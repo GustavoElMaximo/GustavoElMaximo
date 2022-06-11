@@ -7,9 +7,9 @@ Co-founder & Developer at materializadora.es
 In continuous improvement of my knowledge and skills. Total focus on data science, machine learning, and artificial intelligence with Python, also interested in Web3, BlockChain, and Smart Contracts with Solidity. Higher-Level Technical Studies in Data Processing, Multi-Application Development and Software Engineer. Delphi & Java enthusiast and Delphi-JEDI for a long time.
 
 * 🌍  I'm based in España
-* 🖥️  See my portfolio at [Gustavo Maximo's Website](http://gustavomaxim.com)
+* 🖥️  See my portfolio at [my Website](https://gustavomaximo.com)
 * ✉️  You can contact me at [gmaximo@gmail.com](mailto:gmaximo@gmail.com)
-* 🚀  I'm currently working on [Secret Project](http://gustavomaxim.com)
+* 🚀  I'm currently working on [Secret Project](https://materializadora.es)
 * 🧠  I'm learning Flask, GraphQL, Solidity
 * 🤝  I'm open to collaborating on Web3 and DataScience projects
 
