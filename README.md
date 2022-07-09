@@ -9,7 +9,7 @@ In continuous improvement of my knowledge and skills. Total focus on data scienc
 * 🌍  I'm based in Spain
 * 🖥️  See my portfolio at [my Website](https://gustavomaximo.com)
 * ✉️  You can contact me at [gmaximo@gmail.com](mailto:gmaximo@gmail.com)
-* 🚀  I'm currently working on [Secret Project](https://materializadora.es)
+* 🚀  Founder and developer at [materializadora](https://materializadora.es)
 * 🧠  I'm learning Flask, Django, GraphQL, Web3 and Solidity 
 * 🤝  I'm open to collaborating on Web3 and DataScience projects
 
