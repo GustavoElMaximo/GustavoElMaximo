@@ -10,7 +10,7 @@ In continuous improvement of my knowledge and skills. Total focus on data scienc
 * 🖥️  See my portfolio at [my Website](https://gustavomaximo.com)
 * ✉️  You can contact me at [gmaximo@gmail.com](mailto:gmaximo@gmail.com)
 * 🚀  I'm currently working on [Secret Project](https://materializadora.es)
-* 🧠  I'm learning Flask, GraphQL, Solidity
+* 🧠  I'm learning Flask, Django, GraphQL, Web3 and Solidity 
 * 🤝  I'm open to collaborating on Web3 and DataScience projects
 
 <a href="https://www.twitter.com/gustavomaximo" target="_blank" rel="noreferrer"><img
