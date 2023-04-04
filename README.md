@@ -1,7 +1,12 @@
 Hi 👋 My name is Gustavo Maximo
 ===============================
 
-Co-founder & Developer at materializadora.es
+👨‍💻 Full Stack Developer and Tech Entrepreneur 💻
+
+#DataScience and #Web3 enthusiast. Agilist.
+#Python #Solidity #Scrum
+
+Delphi-Jedi | Empreteco
 --------------------------------------------
 
 In continuous improvement of my knowledge and skills. Total focus on data science, machine learning, and artificial intelligence with Python, also interested in Web3, BlockChain, and Smart Contracts with Solidity. Higher-Level Technical Studies in Data Processing, Multi-Application Development and Software Engineer. Delphi & Java enthusiast and Delphi-JEDI for a long time.
